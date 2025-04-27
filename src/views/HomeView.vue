@@ -32,6 +32,8 @@ const showWhatsAppCard = () => {
 onMounted(() => {
     nextTick(() => {
         const map = L.map('map', {
+            iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+            shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
             center: [-6.1822902, 106.9072311],
             zoom: 13,
             dragging: false,
