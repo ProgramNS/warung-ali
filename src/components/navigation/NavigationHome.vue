@@ -63,7 +63,7 @@ onMounted(() => {
 
                 <!-- Logo kiri -->
                 <div class="absolute left-0">
-                    <h1 class="text-xl font-bold text-yellow-700">ALI CATHERING</h1>
+                    <h1 class="text-xl font-bold text-yellow-700">MASAKAN WARUNG ALI</h1>
                 </div>
 
                 <!-- Menu tengah (Desktop) -->
